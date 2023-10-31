@@ -26,18 +26,18 @@ These are the function you can use:<br />
 
 ```c
 // Main Function //
-- GZE_CreateRadius(Float:x, Float:y, Float:radius) // This function create simple Rectangle zone with radius.
-- GZE_Create(Float:minx, Float:miny, Float:maxx, Float:maxy) // This function create Zone with custom cord same as GangZoneCreate.
+• GZE_CreateRadius(Float:x, Float:y, Float:radius) // This function create simple Rectangle zone with radius.
+• GZE_Create(Float:minx, Float:miny, Float:maxx, Float:maxy) // This function create Zone with custom cord same as GangZoneCreate.
 
 // Extra Function //
-- GZE_Destroy(id)
-- GZE_ShowForPlayer(playerid, id, color)
-- GZE_ShowForAll(id, color)
-- GZE_HideForPlayer(playerid, id)
-- GZE_HideForAll(id)
-- GZE_FlashForPlayer(playerid, id, flashcolor)
-- GZE_FlashForAll(id, flashcolor)
-- GZE_StopFlashForPlayer(playerid, id)
-- GZE_StopFlashForAll(id)
-- GZE_DestroyAll()
+• GZE_Destroy(id)
+• GZE_ShowForPlayer(playerid, id, color)
+• GZE_ShowForAll(id, color)
+• GZE_HideForPlayer(playerid, id)
+• GZE_HideForAll(id)
+• GZE_FlashForPlayer(playerid, id, flashcolor)
+• GZE_FlashForAll(id, flashcolor)
+• GZE_StopFlashForPlayer(playerid, id)
+• GZE_StopFlashForAll(id)
+• GZE_DestroyAll()
 ```
