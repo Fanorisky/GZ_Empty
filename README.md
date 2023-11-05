@@ -26,7 +26,7 @@ These are the function you can use:<br />
 
 ```c
 // Main Function //
-• GZE_CreateRadius(Float:x, Float:y, Float:radius) // This function create simple Rectangle zone with radius.
+• GZE_CreateRadius(TYPE:(CIRCLE/SQUARE), Float:x, Float:y, Float:radius) // This function create simple Rectangle zone with radius.
 • GZE_Create(Float:minx, Float:miny, Float:maxx, Float:maxy) // This function create Zone with custom cord same as GangZoneCreate.
 
 // Extra Function //
