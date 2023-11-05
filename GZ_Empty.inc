@@ -1,4 +1,4 @@
-/** ======================================================================== **\
+/** ========================================================================
 
 | Version:
 1.0.1
@@ -9,9 +9,6 @@ Copyright (c) 2023 Fanorisky
 #Changelog
 - Add 2 types of radius zone
 
-/** ======================================================================== **/
-
-/*
 // Main Function //
 native GZE_CreateRadius(Type, Float:x, Float:y, Float:radius) // This function create simple empty zone with radius. (Type: CIRCLE, SQUARE)
 native GZE_Create(Float:minx, Float:miny, Float:maxx, Float:maxy) // This function create Zone with custom cord same as GangZoneCreate.
@@ -27,7 +24,7 @@ native GZE_FlashForAll(id, flashcolor)
 native GZE_StopFlashForPlayer(playerid, id)
 native GZE_StopFlashForAll(id)
 native GZE_DestroyAll()
-*/ 
+======================================================================== **/
 
 
 #if defined _gze_included
