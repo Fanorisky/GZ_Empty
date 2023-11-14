@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/issues</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/pulls</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/actions</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/projects?query=is%3Aopen</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/security</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/commit/d1dfbce8d18d2314187877784b6f8f232f900726</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/commit/85a6cabbfd475163d54e09b5f4b9ac74d028917b</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/commit/d906373b313fdc43d0706210a858192878a92b81</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/commit/8419b4da6a80375aa95e19bd0d74e49dc3247dbb</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/releases</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/releases/tag/GZE</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/labels</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/milestones</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/compare</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/commit/c403ba8b5c54bbe5d79f63610bd2d1007acad186</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/labels?sort=name-asc</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/labels?sort=name-desc</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/labels?sort=count-desc</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/labels?sort=count-asc</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/labels/bug</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/labels/documentation</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/labels/duplicate</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/labels/enhancement</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/labels/good%20first%20issue</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/labels/help%20wanted</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/labels/invalid</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/labels/question</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/labels/wontfix</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/milestones?state=open</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/milestones?state=closed</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/commit/5537dd84b3ba089a841dd19698ba6ea3d25a9d3a</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/commit/f6e1a3ad5e8857a3c5b18d76110e2bb390b15da1</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/commit/135a649429d016546ac4415e8930063eab0f09b6</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/commit/7f66e3c7767ee27c39e04c76d02c1c0d088a8f2c</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.26</priority>
+</url>
+<url>
+  <loc>https://github.com/Fanorisky/GZ_Empty/commit/ce20f596c501ff4b625c9d7f4039f6d76a77fdd6</loc>
+  <lastmod>2023-11-14T01:53:42+00:00</lastmod>
+  <priority>0.21</priority>
+</url>
+
+
+</urlset>
